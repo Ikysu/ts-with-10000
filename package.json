@@ -1,0 +1,23 @@
+{
+  "name": "ts-with-10000",
+  "version": "1.0.0",
+  "description": "Codespace TS with 10000 port",
+  "main": "index.js",
+  "bin": {
+    "create-ts-with-10000": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikysu/ts-with-10000.git"
+  },
+  "keywords": [
+    "ts",
+    "codespace"
+  ],
+  "author": "ikysu",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ikysu/ts-with-10000/issues"
+  },
+  "homepage": "https://github.com/ikysu/ts-with-10000#readme"
+}
