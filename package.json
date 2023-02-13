@@ -1,6 +1,6 @@
 {
   "name": "ts-with-10000",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Codespace TS with 10000 port",
   "main": "index.js",
   "bin": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ikysu/ts-with-10000/issues"
   },
-  "homepage": "https://github.com/ikysu/ts-with-10000#readme"
+  "homepage": "https://github.com/ikysu/ts-with-10000#readme",
+  "dependencies": {
+    "cross-spawn": "^7.0.3"
+  }
 }
